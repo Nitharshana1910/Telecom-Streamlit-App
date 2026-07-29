@@ -5,6 +5,3 @@ scikit-learn
 joblib
 shap
 matplotlib
-
-
-python -m streamlit run app.py
